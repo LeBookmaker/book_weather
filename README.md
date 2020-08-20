@@ -7,24 +7,43 @@ Change the weather with chat command
 ```/clouds ```
 
 ```/drizzle ```	
+
 ```/fog ```	
+
 ```/groundblizzard ```	
+
 ```/hail ```	
+
 ```/highpressure ```	
+
 ```/hurricane ```	
+
 ```/misty ```	
+
 ```/overcast ```	
+
 ```/overcastdark ```	
+
 ```/rain	 ```
+
 ```/sandstorm ```	
+
 ```/shower	 ```
+
 ```/sleet	 ```
+
 ```/snow	 ```
+
 ```/snowclearing	 ```
+
 ```/snowlight	 ```
+
 ```/sunny	 ```
+
 ```/thunder	 ```
+
 ```/thunderstorm	 ```
+
 ```/whiteout ```	
 
 ## How to install
