@@ -1,7 +1,7 @@
 # book_weather
 Change the weather with chat commands
 
-## Chat command
+## Chat commands
 ```/blizzard ```	
 
 ```/clouds ```
