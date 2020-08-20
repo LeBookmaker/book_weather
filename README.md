@@ -3,7 +3,9 @@ Change the weather with chat command
 
 ## Chat command
 ```/blizzard ```	
+
 ```/clouds ```
+
 ```/drizzle ```	
 ```/fog ```	
 ```/groundblizzard ```	
