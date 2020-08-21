@@ -2,49 +2,31 @@
 Change the weather with chat commands
 
 ## Chat commands
-```/blizzard ```	
+```/weather [Weather Type]```
 
-```/clouds ```
-
-```/drizzle ```	
-
-```/fog ```	
-
-```/groundblizzard ```	
-
-```/hail ```	
-
-```/highpressure ```	
-
-```/hurricane ```	
-
-```/misty ```	
-
-```/overcast ```	
-
-```/overcastdark ```	
-
-```/rain	 ```
-
-```/sandstorm ```	
-
-```/shower	 ```
-
-```/sleet	 ```
-
-```/snow	 ```
-
-```/snowclearing	 ```
-
-```/snowlight	 ```
-
-```/sunny	 ```
-
-```/thunder	 ```
-
-```/thunderstorm	 ```
-
-```/whiteout ```	
+## Weather Types
+- Blizzard
+- Clouds
+- Drizzle
+- Fog
+- GroundBlizzard
+- Hail
+- HighPressure
+- Hurricane
+- Misty
+- Overcast
+- OvercastDark
+- Rain
+- Sandstorm
+- Shower
+- Sleet
+- Snow
+- SnowClearing
+- SnowLight
+- Sunny
+- Thunder
+- Thunderstorm
+- WhiteOut
 
 ## How to install
 * Copy and paste ```book_weather``` folder to ```resources/book_weather```
